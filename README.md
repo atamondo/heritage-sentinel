@@ -1,2 +1,2 @@
 # heritage-sentinel
-Lab Project for 4880
+4880 Lab Project 1
