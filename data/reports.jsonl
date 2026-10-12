@@ -1,0 +1,17 @@
+{"id": "r1", "material": "stone", "damage": ["crack", "loose_base"], "severity": "major"}
+{"id": "r2", "material": "stone", "damage": ["crack", "loose_base"], "severity": "minor"}
+{"id": "r3", "material": "wood", "damage": ["rot"], "severity": "minor"}
+{"id": "r4", "material": "stone", "damage": ["rot"], "severity": "minor"}
+{"id": "r5", "material": "metal", "damage": ["corrosion"], "severity": "major"}
+{"id": "r6", "material": "textile", "damage": ["corrosion"], "severity": "minor"}
+{"id": "r7", "material": "ceramic", "damage": [], "severity": "none"}
+{"id": "r8", "material": "ceramic", "damage": ["fading"], "severity": "none"}
+{"id": "r9", "material": "stone", "damage": ["rot", "crack", "loose_base"], "severity": "minor"}
+{"id": "r10", "material": "metal", "damage": []}
+{"id": "r11", "material": "marble", "damage": ["crack"], "severity": "minor"}
+{"id": "r12", "material": "textile", "damage": ["loose_base"], "severity": "minor"}
+{"id": "r13", "material": "stone", "damage": ["loose_base"], "severity": "minor"}
+{"id": "r14", "material": "textile", "damage": ["fading"], "severity": "minor"}
+{"id": "r15", "material": "wood", "damage": ["rot", "crack"], "severity": "minor"}
+{"id": "r16", "material": "wood", "damage": ["rot", "crack"], "severity": "major"}
+{"id": "r17", "material": "wood", "damage": ["crack"], "severity": "minor"}
