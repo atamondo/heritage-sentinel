@@ -26,9 +26,10 @@ CLAUSES = [
     
     # part E: own rules
     # material & damage that can't coexist: a textile has no base to come loose.
-    rule("invalid:loose_base_on_textile", "damage_loose_base", "material_textile"),
+    # rule("invalid:loose_base_on_textile", "damage_loose_base", "material_textile"),
+    
     # Severity that doesn't fit the pattern: rot plus a crack in wood means
     # moisture is getting into a split, fiber is failing, so "minor" is an understatement.
-    rule("fiber_failure", "material_wood", "damage_rot", "damage_crack"),
-    rule("invalid:fiber_failure_marked_minor", "fiber_failure", "severity_minor"),
+    # rule("fiber_failure", "material_wood", "damage_rot", "damage_crack"),
+    #rule("invalid:fiber_failure_marked_minor", "fiber_failure", "severity_minor"),
 ]
